@@ -64,6 +64,7 @@ The debugger will receive a list of all project roots, separated by a space. For
 
 You can use Safari to debug the iOS version of your app without having to enable "Debug JS Remotely".
 
+- Enable Web Inspector in your device's settings: `Settings → Safari → Advanced → Enable "Web Inspector"`
 - Enable Develop menu in Safari: `Preferences → Advanced → Select "Show Develop menu in menu bar"`
 - Select your app's JSContext: `Develop → Simulator → JSContext`
 - Safari's Web Inspector should open which has a Console and a Debugger
